@@ -1,7 +1,7 @@
 # svg-a-pdf-cadena
 Cambia varios documentos SVG a PDF sin morir en el intento.
 
-(Actualmente sólo está dispoible el ejecutable para Windows.)
+(Actualmente sólo está disponible la versión para Windows.)
 
 #### ¿Por qué?
 Porque alguna vez has necesitado cambiar un montón de SVG a PDF y no has encontrado como hacerlo
