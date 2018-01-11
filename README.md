@@ -16,7 +16,7 @@ de forma rápida, sencilla y sin acabar por los suelos.
 #### ¿Y si uso Linux?
 No te preocupes, pronto publicaré el ejecutable de Linux.
 
-  :sweat_smile:
-  + **Recuerda no dar demasiados permisos y eliminar el ejecutable cuando no lo necesites.**
-  + **Use este programa bajo su propia responsabilidad.**
-  + **No me hago responsable de cualquier daño ocasionado en el equipo.**
+#### Advertencia 😅
++ **Use este programa bajo su propia responsabilidad.**
++ **No me hago responsable de cualquier daño ocasionado en su equipo.**
++ **Haz un uso responsable de los permisos en aplicaciones.**
