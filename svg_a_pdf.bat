@@ -1,13 +1,10 @@
-:10-01-2018
-:Joaquin Bello Jimenez
+:11-01-2018
+:https://github.com/JoaquinBelloJimenez
 
 @ECHO OFF
 TITLE svg a pdf
 
 SET /A "cont=0"
-
-
-
 
 :Leer los archivos de la capeta
 FOR %%G IN (*.svg) DO (
